@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221838280812",
+    "project_id": "apii-pkb3sf",
+    "storage_bucket": "apii-pkb3sf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221838280812:android:4276f140f6b68215ed3049",
+        "android_client_info": {
+          "package_name": "com.mycompany.firstApi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPPwB4bQ9HFX67ekAeC9LXf1qrrCMfQjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
